@@ -1,0 +1,32 @@
+.contact-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    height: 100%;
+}
+
+.section-title {
+    color: rgb(129, 20, 74);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.contact-info-list {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-info-list li {
+    margin-bottom: 20px;
+}
+
+.contact-info-list strong {
+    display: block;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.contact-info-list p {
+    color: #666;
+    margin: 5px 0 0;
+}
